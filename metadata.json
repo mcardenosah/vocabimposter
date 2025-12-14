@@ -1,0 +1,5 @@
+{
+  "name": "VocabImpostor",
+  "description": "Una adaptación educativa del juego 'Impostor/Spyfall' donde los profesores pueden personalizar listas de vocabulario usando IA.",
+  "requestFramePermissions": []
+}
